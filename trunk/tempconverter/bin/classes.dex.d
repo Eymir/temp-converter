@@ -1,0 +1,20 @@
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes.dex : \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/R$attr.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/R$string.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/MainActivity$MainAct.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/R$color.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/Conversor.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/BuildConfig.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/R$layout.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/R.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/Engine.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/IEngine.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/MainActivity.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/Alert.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/R$drawable.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/IConversor.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/Alert$1.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/Alert$2.class \
+/home/yole/NetBeansProjects/AndroidApplication1/bin/classes/test/src/R$id.class \
+/usr/local/dev/android-sdk-linux/tools/support/annotations.jar \
+/home/yole/NetBeansProjects/AndroidApplication1/libs/OpenCOM.jar \
