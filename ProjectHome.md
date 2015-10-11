@@ -1,0 +1,1 @@
+App. used to learn how to integrate Android and OpenCOM. The temperature converter is treated like a component.
